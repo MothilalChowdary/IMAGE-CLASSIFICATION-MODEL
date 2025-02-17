@@ -83,3 +83,8 @@ Performance evaluation through accuracy, loss curves, and classification reports
 
 In summary, this CNN-based image classification model demonstrates the effectiveness of deep learning in recognizing objects from the CIFAR-10 dataset. By leveraging convolutional layers for feature extraction and dropout layers for regularization, the model achieves a balance between accuracy and generalization. While the current model performs well, further enhancements such as data augmentation, deeper architectures, and fine-tuning of hyperparameters could improve its robustness. CNNs remain one of the most powerful techniques for image classification tasks, with wide applications across various domains, including medical imaging, autonomous vehicles, and security surveillance.
 
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/3c2ffeb1-47d7-4a93-a892-f19c14f995f2)
+![Image](https://github.com/user-attachments/assets/0c6da782-db0c-40c2-9f6e-235a55542be6)
+![Image](https://github.com/user-attachments/assets/f3fbcbc3-957f-417a-a04c-8d266068e5c1)
+
