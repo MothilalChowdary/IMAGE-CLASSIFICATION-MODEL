@@ -1,12 +1,4 @@
 # IMAGE-CLASSIFICATION-MODEL
-**COMPANY**        : CODTECH IT SOLUTIONS
-**NAME**           : EDAMALAPATI MOTHILAL CHOWDARY
-**INTERN ID**      : CT12JJP
-**DOMAIN**         : MACHINE LEARNING
-**BATCH DURATION** : January 5th,2025 to March 5th,2025
-**MENTOR NAME**    : NEELA SANTHOSH
-
-# DESCRIPTION OF TASK : 
 **Convolutional Neural Network Image Classification Model in TensorFlow**
 
 This image classification project uses a Convolutional Neural Network (CNN) implemented in TensorFlow (Keras) to classify images from the CIFAR-10 dataset. The CIFAR-10 dataset consists of 60,000 images, divided into 10 classes, including airplanes, automobiles, birds, cats, and other common objects. The goal of this model is to train a CNN that can recognize these categories with high accuracy.
